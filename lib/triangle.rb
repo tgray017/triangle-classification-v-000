@@ -22,6 +22,7 @@ class Triangle
   end
   
   class TriangleError < StandardError
+    "dis a bullshit trangle"
   end
   
 end
